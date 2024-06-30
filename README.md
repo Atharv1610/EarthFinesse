@@ -20,7 +20,7 @@ EarthFinesse is a high-accuracy military terrain classifier powered by deep lear
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PiPlusTheta/EarthFinesse.git
+   https://github.com/Atharv1610/EarthFinesse.git
    cd EarthFinesse
 	```
 2. Install the required Python packages:
